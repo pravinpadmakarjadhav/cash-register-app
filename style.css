@@ -1,7 +1,4 @@
-:root{
-    --dark-green : #0b395f;
-    --faint-green: #6ba9db;
-}
+
 *{
     font-family: 'Open Sans', sans-serif;
     box-sizing: border-box;
@@ -22,7 +19,7 @@ background: linear-gradient(to right, #2ebf91, #8360c3); /* W3C, IE 10+/ Edge, F
     margin: auto;
     padding: 2rem 1rem;
     text-align: center;
-    background-color: var(--dark-green);
+    
 }
 h1, p{
     color: white;
