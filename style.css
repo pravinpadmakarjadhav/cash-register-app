@@ -27,7 +27,7 @@ h1, p{
 .label{
     font-size: 1.3rem;
     padding: 1.5rem 1rem 0.5rem;
-    color: var(--faint-green);
+    
 }
 
 
@@ -44,8 +44,6 @@ button{
     font-size: 1rem;
     border: none;
     margin: 1rem auto 0;
-    background-color:var(--faint-green);
-    color: var(--dark-green);
     font-weight: bold;
 }
 
@@ -66,8 +64,6 @@ button{
 #output table, th, td{
     padding: 0.2rem;
     color: var(--dark-green);
-    background-color:var(--faint-green);
-    border: 2px solid var(--dark-green) ;
     border-collapse: collapse;
 }
 .noOfNotes{
@@ -82,4 +78,4 @@ table{
 
 th,td{
     word-wrap: break-word;
-}ss
+}
